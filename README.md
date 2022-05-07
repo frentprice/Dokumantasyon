@@ -4,9 +4,9 @@
 
 ## Amaç:
 Frentprice’ın bilgi karmaşasını önlemek, emlakçılar veya mülk sahiplerinin çeşitli kriz ortamlarında başvurduğu fırsatçılığı ortadan kaldırmak ve kiralanacak eve değer biçmede yaşanan kararsızılığı ortadan kaldırmak gibi öncelikli amaçları bulunmaktadır.
-Frentprice’ın bilgi karmaşasını önlemek, emlakçılar veya mülk sahiplerinin çeşitli kriz ortamlarında başvurduğu fırsatçılığı ortadan kaldırmak ve kiralanacak eve değer biçmede yaşanan kararsızılığı ortadan kaldırmak gibi öncelikli amaçları bulunmaktadır.
+
 ## Hedefler:
-Sistemimizde kullanıcı girmiş olduğu lokasyondaki evleri filitreleyerek ortalama kira değerini öğrenecek aynı zamanda ekranın kalan yarısında lokasyonun tam olarak nerede olduğunu yakınındaki okul, hastane, market, ulaşım gibi özelliklerini de görebilecek. Eğer kullanıcı sisteme üye ise sistem kullanıcıya yapmış olduğu aramayı favorilere ekleme imkanı sunacak.
+Sistemimizde kullanıcı girmiş olduğu lokasyondaki evleri filtreleyerek ortalama kira değerini öğrenecek aynı zamanda ekranın kalan yarısında lokasyonun tam olarak nerede olduğunu yakınındaki okul, hastane, market, ulaşım gibi özelliklerini de görebilecektir. Eğer kullanıcı sisteme üye ise sistem kullanıcıya yapmış olduğu aramayı favorilere ekleme imkanı sunacaktır.
 ## Takım Üyeleri:
 - Melis VARAN
 - Zeynep DEMİREL
@@ -32,7 +32,7 @@ Sistemimizde kullanıcı girmiş olduğu lokasyondaki evleri filitreleyerek orta
 - Osman Tahir KUZU : Backend
 - Mehmet Salih ÖNDER : Backend
 ## Kullanacağımız Yazılım/Donanım Teknolojileri:
-Frentprice bu hedeflediği sistemi hayata geçirirken çeşitli teknoloji ve altyapılara ihtiyaç duyacak. Frentprice bir web uygulamasıdır. Bu uygulamanın hayata geçirilmesinde güncel teknolojiler kullanılacaktır. Frentprice sistemi bir MERN Stack uygulamadır. MERN günümüzün en popüler teknolojilerinin baş harflerinin birleşiminden meydana gelir. Bunlar MongoDB (Veritabanı), Expressjs (Web Framework - Genel yapı için gerekli), Reactjs (Kullanıcı arayüzü oluşturmak için kullanılan bir JavaScript kütüphanesi) ve Nodejs (Basit anlamda Javascript Server) teknolojileridir. Bu teknolojiler sayesinde projemizi uçtan uca javascript dili ile geliştirmiş olacağız. Web sitesi ubuntu server üzerinde çalışacaktır.
+Frentprice bu hedeflediği sistemi hayata geçirirken çeşitli teknoloji ve altyapılara ihtiyaç duyacaktır. Frentprice bir web uygulamasıdır. Bu uygulamanın hayata geçirilmesinde güncel teknolojiler kullanılacaktır. Frentprice sistemi bir MERN Stack uygulamadır. MERN günümüzün en popüler teknolojilerinin baş harflerinin birleşiminden meydana gelir. Bunlar MongoDB (Veritabanı), Expressjs (Web Framework - Genel yapı için gerekli), Reactjs (Kullanıcı arayüzü oluşturmak için kullanılan bir JavaScript kütüphanesi) ve Nodejs (Basit anlamda Javascript Server) teknolojileridir. Bu teknolojiler sayesinde projemizi uçtan uca javascript dili ile geliştirmiş olacağız. Web sitesi ubuntu server üzerinde çalışacaktır.
 
 ## Proje geliştirmede benimsenen yazılım geliştime süreci:
 Biz ekip olarak Agile Software Development (Çevik Yazılım Geliştirme) metodolojilerinden Scrum'ı kullanmaya karar verdik. SCRUM, gereksinimleri açıkça belli olmayan, değişime açık, karmaşık yazılım projelerin yönetimi için uygulanması en ideal yöntemdir. İhtiyaca yönelik, esnek, bir geliştirme sürecidir. Düzenli geri bildirim ve kısa dönemli planlamalarla hedefe ulaşmayı sağlar. En önemli özelliği ise müşteri ve geliştirici doğrudan temas halinde olmadıkları için yazılım geliştirici baskı altında olmaz, yapması gereken işe yoğunlaşır. Başarısı kanıtlanmış bir yazılım geliştirme yöntemi olan Scrum Microsoft, Google, Facebook gibi şirketler tarafından kullanılmaktadır.
