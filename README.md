@@ -1,5 +1,7 @@
 # Dokumantasyon
 # **frentprice**
+![image](https://user-images.githubusercontent.com/56130302/167257077-102498af-cc9b-44a8-8b90-5856dd435ade.png)
+
 ## Amaç:
 Frentprice’ın bilgi karmaşasını önlemek, emlakçılar veya mülk sahiplerinin çeşitli kriz ortamlarında başvurduğu fırsatçılığı ortadan kaldırmak ve kiralanacak eve değer biçmede yaşanan kararsızılığı ortadan kaldırmak gibi öncelikli amaçları bulunmaktadır.
 Frentprice’ın bilgi karmaşasını önlemek, emlakçılar veya mülk sahiplerinin çeşitli kriz ortamlarında başvurduğu fırsatçılığı ortadan kaldırmak ve kiralanacak eve değer biçmede yaşanan kararsızılığı ortadan kaldırmak gibi öncelikli amaçları bulunmaktadır.
