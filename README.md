@@ -37,8 +37,6 @@ dünya genelindeki yazılımcıları grubunuza katılmaya ve destek vermeye, yat
 
 ## Proje broşürünü ve Kullanım Klavuzu v2.0 paylaşınız. ----------(Paylaşılacak)
 
-## Githup a tüm takım üyelerini ve beni (valtuntas@gmail.com) ekleyiniz. Proje/Code takip ve incelemeniz buradan yapılacak. -----------(Hoca eklenecek)
-
 ## Linkedin de proje broşürünüzü  ve githup linkinizi paylaşın. Projenize potansiyel müşteri, yatırımcı ve bağışcı arayınız. --------(LinkedIn'de paylaşım yapılacak)
 
 ## Linkedin paylaşımlarda tüm takım üyelerini ve beni etiketleyiniz. Paylaşım etki ölçümünüz buradan yapılacak. (Bu islem icin beni linkedin den ekleyebilirsiniz) -------------(Yapılacak)
