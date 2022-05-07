@@ -36,7 +36,3 @@ Frentprice bu hedeflediği sistemi hayata geçirirken çeşitli teknoloji ve alt
 
 ## Proje geliştirmede benimsenen yazılım geliştime süreci:
 Biz ekip olarak Agile Software Development (Çevik Yazılım Geliştirme) metodolojilerinden Scrum'ı kullanmaya karar verdik. SCRUM, gereksinimleri açıkça belli olmayan, değişime açık, karmaşık yazılım projelerin yönetimi için uygulanması en ideal yöntemdir. İhtiyaca yönelik, esnek, bir geliştirme sürecidir. Düzenli geri bildirim ve kısa dönemli planlamalarla hedefe ulaşmayı sağlar. En önemli özelliği ise müşteri ve geliştirici doğrudan temas halinde olmadıkları için yazılım geliştirici baskı altında olmaz, yapması gereken işe yoğunlaşır. Başarısı kanıtlanmış bir yazılım geliştirme yöntemi olan Scrum Microsoft, Google, Facebook gibi şirketler tarafından kullanılmaktadır.
-
-
-
-# Yapılan tüm aktivitelere ait ekran görüntüleri takım iletişim sorumluları tarafından yüklenecektir. ---------(Yapılacak)
