@@ -35,8 +35,6 @@ Frentprice bu hedeflediği sistemi hayata geçirirken çeşitli teknoloji ve alt
 ## Proje geliştirmede benimsenen yazılım geliştime sürecini anlatınız -------------------- (Düzenlenecek)
 dünya genelindeki yazılımcıları grubunuza katılmaya ve destek vermeye, yatırımcıları ve bağışçılarıda projenize finansal destek verneye davet ediniz.
 
-## Proje broşürünü ve Kullanım Klavuzu v2.0 paylaşınız. ----------(Paylaşılacak)
-
 ## Linkedin de proje broşürünüzü  ve githup linkinizi paylaşın. Projenize potansiyel müşteri, yatırımcı ve bağışcı arayınız. --------(LinkedIn'de paylaşım yapılacak)
 
 ## Linkedin paylaşımlarda tüm takım üyelerini ve beni etiketleyiniz. Paylaşım etki ölçümünüz buradan yapılacak. (Bu islem icin beni linkedin den ekleyebilirsiniz) -------------(Yapılacak)
