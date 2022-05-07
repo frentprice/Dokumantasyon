@@ -38,6 +38,5 @@ Biz ekip olarak Agile Software Development (Çevik Yazılım Geliştirme) metodo
 
 ## Linkedin de proje broşürünüzü  ve githup linkinizi paylaşın. Projenize potansiyel müşteri, yatırımcı ve bağışcı arayınız. --------(LinkedIn'de paylaşım yapılacak)
 
-## Linkedin paylaşımlarda tüm takım üyelerini ve beni etiketleyiniz. Paylaşım etki ölçümünüz buradan yapılacak. (Bu islem icin beni linkedin den ekleyebilirsiniz) -------------(Yapılacak)
 
 # Yapılan tüm aktivitelere ait ekran görüntüleri takım iletişim sorumluları tarafından yüklenecektir. ---------(Yapılacak)
