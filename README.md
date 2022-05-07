@@ -13,7 +13,7 @@ Sistemimizde kullanıcı girmiş olduğu lokasyondaki evleri filitreleyerek orta
 - Sefa Enes ERGİN
 - Osman Tahir KUZU
 - Mehmet Salih Önder
-## Takım Üye Yetkinlikleri: ---------------- (Düzenlenecek)
+## Takım Üye Yetkinlikleri:
 - Melis VARAN : MYSQL,MongoDB
 - Zeynep DEMİREL : Nodejs, react
 - Muhammed Saltuk YAŞAR : Nodejs, angular, react
