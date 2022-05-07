@@ -20,7 +20,7 @@ Sistemimizde kullanıcı girmiş olduğu lokasyondaki evleri filitreleyerek orta
 - Nurseda DİKER : nodejs, react
 - Sefa Enes ERGİN: Nodejs, ExpressJs
 - Osman Tahir KUZU : MYSQL, Nodejs, MongoDB
-- Mehmet Salih Önder: NodeJs, ExpressJs
+- Mehmet Salih ÖNDER: NodeJs, ExpressJs
 ## Takım Üyelerinin Görevleri:
 - Melis VARAN : Veritabanı
 - Zeynep DEMİREL : Frontend
@@ -28,7 +28,7 @@ Sistemimizde kullanıcı girmiş olduğu lokasyondaki evleri filitreleyerek orta
 - Nurseda DİKER : Frontend
 - Sefa Enes ERGİN : Backend
 - Osman Tahir KUZU : Backend
-- Mehmet Salih Önder : Backend
+- Mehmet Salih ÖNDER : Backend
 ## Kullanacağımız Yazılım/Donanım Teknolojileri:
 Frentprice bu hedeflediği sistemi hayata geçirirken çeşitli teknoloji ve altyapılara ihtiyaç duyacak. Frentprice bir web uygulamasıdır. Bu uygulamanın hayata geçirilmesinde güncel teknolojiler kullanılacaktır. Frentprice sistemi bir MERN Stack uygulamadır. MERN günümüzün en popüler teknolojilerinin baş harflerinin birleşiminden meydana gelir. Bunlar MongoDB (Veritabanı), Expressjs (Web Framework - Genel yapı için gerekli), Reactjs (Kullanıcı arayüzü oluşturmak için kullanılan bir JavaScript kütüphanesi) ve Nodejs (Basit anlamda Javascript Server) teknolojileridir. Bu teknolojiler sayesinde projemizi uçtan uca javascript dili ile geliştirmiş olacağız. Web sitesi ubuntu server üzerinde çalışacaktır.
 
